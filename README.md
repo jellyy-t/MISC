@@ -97,7 +97,11 @@ graph TD;
 
 ## Contact and Contributing Section
 
+Create a clear call to action for potential contributors, and include your contact details or links to social media.
+
 ## Keyboard Shortcut Formatting
+
+Use HTML for more specialized formatting, like keyboard shortcuts.
 
 ## Comments for Developer Notes
 
