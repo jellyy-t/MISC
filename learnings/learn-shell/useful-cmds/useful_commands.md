@@ -1,8 +1,11 @@
 # Shell Command Basics
 
+## About
+
+This file contains notes about some useful basic shell commands that can be used.
+
 ## Table of Content
 
-- [About](#about)
 - [Contents](#contents)
   - [File Inspection and Analysis](#file-inspection-and-analysis)
   - [File and Directory Management](#file-and-directory-management)
@@ -14,10 +17,6 @@
   - [Text Processing](#text-processing)
   - [User and Permission Management](#user-and-permission-management)
   - [Miscellaneous](#miscellaneous)
-
-## About
-
-This file contains notes about some useful basic shell commands that can be used.
 
 ## Contents
 
