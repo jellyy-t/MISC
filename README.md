@@ -30,7 +30,9 @@ int main() {
   return 0;
 }
 ```
+
 ## Relative Links to Files
+
 You can link to other files or sections within the repository using relative links.
 
 ```markdown
@@ -99,9 +101,18 @@ graph TD;
 
 Create a clear call to action for potential contributors, and include your contact details or links to social media.
 
+```markdown
+## Contact
+Created by [Your Name](https://yourprofile.com) - feel free to contact me!
+```
+
 ## Keyboard Shortcut Formatting
 
 Use HTML for more specialized formatting, like keyboard shortcuts.
+
+```markdown
+<kbd>Ctrl</kbd> + <kbd>C</kbd>
+```
 
 ## Comments for Developer Notes
 
@@ -109,4 +120,12 @@ Add comments using HTML-style comments. They are invisible in the rendered READM
 
 ```html
 <!-- This is a comment and won't be visible in the rendered README -->
+```
+
+## Embedding GIFs or Videos
+
+To demonstrate features dynamically, embed GIFs or videos for tutorials or quick overviews.
+
+```markdown
+![Demo](https://user-images.com/demo.gif)
 ```
